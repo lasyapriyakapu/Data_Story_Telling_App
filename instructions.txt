@@ -1,0 +1,52 @@
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone <your-github-repository-link>
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd Titanic_Data_Storytelling_App
+```
+
+3. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the Streamlit application:
+
+```bash
+python -m streamlit run app.py
+```
+
+5. Open the application in your browser. If it does not open automatically, visit:
+
+```text
+http://localhost:8501
+```
+
+## 📋 Features
+
+- Dataset Introduction
+- Data Cleaning and Missing Value Handling
+- Dataset Preview
+- Survival Analysis
+- Gender vs Survival Analysis
+- Passenger Class Analysis
+- Age Distribution Analysis
+- Key Insights and Conclusions
+- Interactive Plotly Visualizations
+- Glassmorphism User Interface
+- Animated Ocean-Themed Background
+
+## 🛠 Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- Plotly Express

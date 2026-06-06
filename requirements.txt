@@ -1,0 +1,4 @@
+streamlit
+pandas
+plotly
+VScode or  Google Collab to  run the source code.
